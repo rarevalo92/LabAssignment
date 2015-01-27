@@ -1,1 +1,2 @@
 # LabAssignment
+Richard Arevalo
