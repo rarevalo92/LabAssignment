@@ -19,6 +19,6 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="58dp"
-        android:background="@drawable/login_selector"/>
+        android:background="@drawable/button_selector"/>
 
 </RelativeLayout>
